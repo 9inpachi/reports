@@ -1,6 +1,6 @@
 # GSoC 2020 Report
 
-/\_ <img src="https://summerofcode.withgoogle.com/static/favicon/favicon-32x32.png" height="17px" /> Google Summer of Code - <img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" height="17px" /> **CERN-HSF** \_\
+<img src="https://summerofcode.withgoogle.com/static/favicon/favicon-32x32.png" height="17px" /> Google Summer of Code - <img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" height="17px" /> **CERN-HSF**
 
 ## Phoenix - Experiment Independent Event Display
 
@@ -21,9 +21,9 @@ Phoenix is a web-based, experiment independent event display framework in JavaSc
 
 _The links below (mostly) contain multiple screenshots and screen captures of the features._
 
-#### - Community Bonding Period -
+#### Community Bonding Period
 
-_04 May 2020 - 01 Jun 2020_
+<small>_04 May 2020 - 01 Jun 2020_</small>
 
 During the community bonding period, I started off by solving some of the existing issues so I could integrate better with the code base and as a part of it documented the entire code and used compodoc to deploy the API documentation.
 
@@ -33,9 +33,9 @@ During this period, I made the following contributions.
 * [Improvement of overlay components](https://github.com/HSF/phoenix/pull/81)
 * [Complete API documentation](https://github.com/HSF/phoenix/pull/83)
 
-#### - First Phase -
+#### First Phase
 
-_01 Jun 2020 - 03 Jul 2020_
+<small>_01 Jun 2020 - 03 Jul 2020_</small>
 
 I started to code from 30th May 2020.
 
@@ -53,9 +53,9 @@ I started to code from 30th May 2020.
 * [Scalable Jets and fix depthTest](https://github.com/HSF/phoenix/pull/107)
 * Debug and discover issue of why antialiasing was not working
 
-#### - Second Phase -
+#### Second Phase
 
-_03 Jul 2020 - 31 Jul 2020_
+<small>_03 Jul 2020 - 31 Jul 2020_</small>
 
 * Proposed a new event data JSON format and write conversion functions  
   (Dropped because the proposed format was not good enough)
@@ -72,9 +72,9 @@ _03 Jul 2020 - 31 Jul 2020_
   Support for loading detector geometries from ".root" and ".json.gz" files
 * Converter for converting locked JSON geometries to glTF for use in Phoenix
 
-#### - Third / Final Phase -
+#### Third / Final Phase
 
-_31 Jul 2020 - 31 Aug 2020_
+<small>_31 Jul 2020 - 31 Aug 2020_</small>
 
 * [Unit tests](https://github.com/HSF/phoenix/pull/118)  
   Improved code coverage from 62% to 90%!  

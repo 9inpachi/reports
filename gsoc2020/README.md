@@ -1,8 +1,6 @@
-# GSoC 2020 Report
-
 <img src="https://summerofcode.withgoogle.com/static/favicon/favicon-32x32.png" height="17px" /> Google Summer of Code - <img src="https://hepsoftwarefoundation.org/images/hsf_logo_angled.png" height="17px" /> **CERN-HSF**
 
-## Phoenix - Experiment Independent Event Display
+# Phoenix - Experiment Independent Event Display
 
 Phoenix is a web-based, experiment independent event display framework in JavaScript for visualizing HEP experiment data from multiple experiments. This project focused on major improvements for the Phoenix framework and application.
 
@@ -10,18 +8,22 @@ Phoenix is a web-based, experiment independent event display framework in JavaSc
 
 **Mentors:** Edward Moyse, Riccardo Maria Bianchi
 
-### Important Links
+## Important Links
 
 * [**Deployed Application**](https://hepsoftwarefoundation.org/phoenix/)
 * [**Project Repository / Code**](https://github.com/HSF/phoenix)
 * [**Daily Progress**](https://github.com/9inpachi/progress/tree/master/gsoc2020)
 * [**Proposal**](https://drive.google.com/file/d/1x66OR-A5O3wUK2lyfJbdAiLGz_fpG1JO/view)
 
-### Work
+## Video
+
+<iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/75MWVRzVvoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Work
 
 _The links below (mostly) contain multiple screenshots and screen captures of the features._
 
-#### Community Bonding Period
+### Community Bonding Period
 
 <small>_04 May 2020 - 01 Jun 2020_</small>
 
@@ -33,7 +35,7 @@ During this period, I made the following contributions.
 * [Improvement of overlay components](https://github.com/HSF/phoenix/pull/81)
 * [Complete API documentation](https://github.com/HSF/phoenix/pull/83)
 
-#### First Phase
+### First Phase
 
 <small>_01 Jun 2020 - 03 Jul 2020_</small>
 
@@ -53,7 +55,7 @@ I started to code from 30th May 2020.
 * [Scalable Jets and fix depthTest](https://github.com/HSF/phoenix/pull/107)
 * Debug and discover issue of why antialiasing was not working
 
-#### Second Phase
+### Second Phase
 
 <small>_03 Jul 2020 - 31 Jul 2020_</small>
 
@@ -72,7 +74,7 @@ I started to code from 30th May 2020.
   Support for loading detector geometries from ".root" and ".json.gz" files
 * Converter for converting locked JSON geometries to glTF for use in Phoenix
 
-#### Third / Final Phase
+### Third / Final Phase
 
 <small>_31 Jul 2020 - 31 Aug 2020_</small>
 
@@ -96,7 +98,7 @@ I started to code from 30th May 2020.
   Support for moving through the event display scene using the VR controller
 * Create `AnimationsManager`, `EffectsManager` and `VRManager` for modular code and improve Three and Eventdisplay services
 
-### What's Next
+## What's Next
 
 * Detailed documentation on how to use Phoenix as an API to set up any experiment
 * Support for loading events from server
@@ -104,10 +106,10 @@ I started to code from 30th May 2020.
 * More immersive and dedicated VR experience as the WebXR API gets updated
 * Support for more experiments
 
-### Remarks
+## Remarks
 
 It was a very fun and exciting experience working on Phoenix. I was interested in Phoenix from the last year and had been trying to contribute to it before. Through GSoC, I got the chance to fully commit to it and make some major improvements.
 
-#### Mentors
+### Mentors
 
 Edward throughout the project was very helpful and appreciative of the work and always ready to discuss whatever I had in mind. It was a very fruitful experience working on this with him. I hope to be in touch with him and make some major contributions to Phoenix in the future as well.

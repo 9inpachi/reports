@@ -17,7 +17,9 @@ Phoenix is a web-based, experiment independent event display framework in JavaSc
 
 ## Video
 
-<iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/75MWVRzVvoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video showcasing some of the important Phoenix features.
+
+<iframe width="100%" height="350" style="margin-bottom: 20px;" src="https://www.youtube-nocookie.com/embed/75MWVRzVvoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Work
 
